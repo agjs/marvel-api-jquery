@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "app.js",
   "scripts": {
-    "start": "lite-server index.html"
+    "start": "lite-server index.html",
+    "build:watch": "webpack --watch"
   },
   "author": "Aleksandar Grbic <agrbicpp@gmail.com> (https://codeyoufools.com)",
   "license": "MIT",
